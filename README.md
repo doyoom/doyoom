@@ -1,6 +1,10 @@
-# Hi 
+# Hi
 
-![banner](https://user-images.githubusercontent.com/your-image.png)  
+## 🦄 My 3D GitHub Contributions
+![3D Contributions](https://github.com/yourgithubusername/github-profile-3d-contrib/blob/main/profile-green-animate.svg)
+
+
+![Achievement](https://github-profile-achievements.vercel.app/api/doyoom)
 
 ## Hi, I'm Doyoon Kim  
 - Exploring cloud, backend, and engineering.  
