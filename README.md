@@ -3,9 +3,9 @@
 ![banner](https://user-images.githubusercontent.com/your-image.png)  
 
 ## Hi, I'm Doyoon Kim  
-✨ Exploring cloud, backend, and engineering.  
-🚀 Passionate about AWS, data, and scalable systems.  
-📌 Seeking a role in cloud computing or product management.  
+- Exploring cloud, backend, and engineering.  
+- Passionate about AWS, data, and scalable systems.  
+- Seeking a role in cloud computing or data engineering.
 
 ---
 
@@ -25,10 +25,4 @@
 
 ---
 
-## 📊 Stats
-![Doyoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical)
-
----
-
-🔍 _"Always learning, always growing."_  
+"Constantly growing and taking on new challenges"
