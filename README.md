@@ -1,5 +1,13 @@
 ## Hi, I'm Doyoon Kim
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doyoom&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/doyoom"
+    width="600"
+    height="300"
+  />
+</a>
+
 - 🌩️ Exploring **cloud**, **backend**, and **engineering**
 - 🌱 Passionate about **AWS**, **data**, and **scalable systems**
 - 🎯 Seeking a role in **cloud computing** or **data engineering**
