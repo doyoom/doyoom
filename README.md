@@ -6,7 +6,7 @@ I enjoy understanding how systems behave under real conditions — not just maki
 
 I care about scalability, reliability, and real operational impact.
 
-### About Me 💡
+## About Me 💡
 
 ▶️ Fast learner who enjoys exploring unfamiliar technologies and adapting quickly  
 
