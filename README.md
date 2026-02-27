@@ -1,33 +1,60 @@
-## Hi, I'm Doyoon Kim
+## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doyoom&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/doyoom"
-  width="600"
-  height="300"
-/>
-</a>
+I'm **Doyoon Kim**, a Cloud & Infrastructure Engineer focused on building reliable systems in distributed and production environments.
 
-- ☁️ Focused on **cloud infrastructure** and **DevOps engineering**
-- ⚙️ Working with **Kubernetes-based systems**, automation, and observability
-- 🎯 Seeking a role as a **Cloud / DevOps Engineer**
+I enjoy understanding how systems behave under real conditions — not just making them work, but making them scalable, resilient, and operationally reliable.
 
----
+I care about scalability, reliability, and real operational impact.
 
-## 🛠️ Tech Stacks
+### About Me 💡
 
-| Category | Skills |
-|---------|--------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| **DevOps & Automation** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| **Systems & Datastores** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+▶️ Fast learner who enjoys exploring unfamiliar technologies and adapting quickly  
 
----
+▶️ Comfortable collaborating in English within global and multicultural environments  
 
-## 📬 Contact Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:doyoon0204@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doyoomii/)  [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@doyoom/posts)
+▶️ Prefer building stable and maintainable infrastructure over short-term fixes  
 
----
+▶️ Curious about how real systems behave in production environments  
 
-> _"Constantly growing and taking on new challenges"_
+### 🎓 Background
+
+- B.S. in Computer Science & Engineering, Ewha Womans University  
+- BOAZ Big Data Club — Data Engineering Division, Research Team Lead  
+
+## 🚀 Currently Building & Exploring
+
+- Kubernetes-based distributed systems  
+- Terraform infrastructure automation  
+- Event-driven streaming architectures  
+- Observability and reliability engineering  
+
+## 🏗 Projects
+
+### [Distributed Order Event Processing Platform](https://github.com/Back-to-the-Eng/K8s)
+
+Kafka–Spark streaming pipeline deployed on Kubernetes (EKS).  
+Designed operator-based architecture and validated broker fault & ISR scenarios.
+
+### [CloudFlix Infrastructure Automation](https://github.com/AIM-AWS-study/aws-study/tree/main/final-project/cloudflix-infra)
+
+Built modular VPC architecture with Terraform and optimized networking using NAT Gateway restructuring and VPC Endpoints.  
+Designed EKS-ready infrastructure for scalable container workloads.
+
+### [FashionSeek Backend](https://github.com/FashionSeek/BE)
+
+Implemented domain-separated API structure with JWT authentication and standardized response format.  
+Focused on clean architecture and maintainable backend design.
+
+## 🛠 Tech
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,terraform,aws,docker,githubactions,prometheus,git,linux,bash,python)](https://skillicons.dev)
+
+</p>
+
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:doyoon0204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doyoomii/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@doyoom/posts)
