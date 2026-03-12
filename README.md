@@ -33,7 +33,7 @@ I care about scalability, reliability, and real operational impact.
 ### [Distributed Order Event Processing Platform](https://github.com/doyoom/K8s)
 
 Kafka–Spark streaming pipeline deployed on Kubernetes (EKS).  
-Designed operator-based architecture and validated broker fault & ISR scenarios.
+Designed operator-based architecture and validated broker fault & ISR scenarios.  
 Added GitHub Actions CI/CD for automated testing and deployment.
 
 ### [CloudFlix Infrastructure Automation](https://github.com/AIM-AWS-study/aws-study/tree/main/final-project/cloudflix-infra)
